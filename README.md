@@ -1,1 +1,1 @@
-# tester.dir
+# testers/
